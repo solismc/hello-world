@@ -4,6 +4,8 @@ html {
 
 .photography-header {
   background-image: url("https://i.imgur.com/Lsq1dNG.jpg");
+  background-size: cover;
+  background-position: center;
   height: 4em;
   display: flex;
   justify-content: center;
@@ -13,6 +15,8 @@ html {
 
 .home-page-header {
   background-image: url("https://i.imgur.com/UUkQLtD.jpg");
+  background-size: cover;
+  background-position: center;
   height: 4em;
   display: flex;
   justify-content: center;
@@ -23,6 +27,8 @@ html {
 
 .running-header {
   background-image: url("https://i.imgur.com/PMYVzEE.jpg");
+  background-size: cover;
+  background-position: center;
   height: 4em;
   display: flex;
   justify-content: center;
@@ -46,6 +52,7 @@ body {
 li {
   display: inline;
   margin: 5% auto;
+  color: black
 
 }
 
